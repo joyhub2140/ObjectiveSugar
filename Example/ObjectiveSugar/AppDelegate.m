@@ -13,6 +13,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     NSLog(@"fdafdafdafadsfds");
+    NSLog(@"测试第二个按钮");
     return YES;
 }
 
