@@ -10,4 +10,8 @@
 
 @implementation GitTestCreateFileView
 
+- (void)test {
+    NSLog(@"test");
+}
+
 @end
